@@ -19,6 +19,55 @@ let questions = [
         choiceA : "Wahab",
         choiceB : "Rachid",
         choiceC : "Richard",
+        correct : "C"
+    },{
+        question : "Qui rofle le plus ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "Daouda",
+        choiceB : "Imran",
+        choiceC : "Moctar",
+        correct : "C"
+    },{
+        question : "Qui se promene torse nue en serviette ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "Richard",
+        choiceB : "Omar",
+        choiceC : "ben Omar",
+        correct : "A"
+    },{
+        question : "Qui n'as jamais joué à la PS ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "Mahamadou T",
+        choiceB : "Indi",
+        choiceC : "Mahamadou S",
+        correct : "C"
+    },{
+        question : "Qui veut profiter d'une formation au USA et rester là bas ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "Taro",
+        choiceB : "Rachid",
+        choiceC : "Namagaré",
+        correct : "B"
+    },{
+        question : "Qui aime la fraicheur ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "Daouda",
+        choiceB : "Eve",
+        choiceC : "Rabiou",
+        correct : "A"
+    },{
+        question : "Qui fait la plus grande LOMA en mangeant ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "Namagaré",
+        choiceB : "Richard",
+        choiceC : "Wakasso",
+        correct : "B"
+    },{
+        question : "Il faut que tu lui fait tout le site pour que ce #CS comprennent le projet ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "Madame",
+        choiceB : "Rainatou",
+        choiceC : "Harrirra",
         correct : "A"
     },{
         question : "Qui peut dormir pendant 12h ?",
@@ -28,6 +77,20 @@ let questions = [
         choiceC : "Nafiou",
         correct : "B"
     },{
+        question : "A cause d'un morceau de viande, ce #CS peut ne plut te parler 🤣  ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "Rachid",
+        choiceB : "Youssouf",
+        choiceC : "Richard",
+        correct : "C"
+    },{
+        question : "Qui est vieux et fait semblant d'être un jeune ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "Adamou",
+        choiceB : "Imran",
+        choiceC : "Mahamadou T",
+        correct : "B"
+    },{
         question : "Qui n'aime pas la musique ?",
         imgSrc : "img/codeloccol.jpg",
         choiceA : "Adamou",
@@ -35,7 +98,7 @@ let questions = [
         choiceC : "Youssouf",
         correct : "C"
     },{
-        question : "Qui est toujours en retard ?",
+        question : "Qui est toujours en retard en venant de Niamey ?",
         imgSrc : "img/codeloccol.jpg",
         choiceA : "BIG Hassia",
         choiceB : "Eve",
@@ -48,6 +111,27 @@ let questions = [
         choiceB : "Houssein",
         choiceC : "Rouffaye",
         correct : "B"
+    },{
+        question : "Qui est toujours en retard en quittant Codeloccol ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "BIG Hassia",
+        choiceB : "Eve",
+        choiceC : "Soufiane",
+        correct : "A"
+    },{
+        question : "Qui est la plus gentille des #CS ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "BIG Hassia",
+        choiceB : "Haoua",
+        choiceC : "Small Hassia",
+        correct : "B"
+    },{
+        question : "Qui a conçu ce quiz ?",
+        imgSrc : "img/codeloccol.jpg",
+        choiceA : "Esaie",
+        choiceB : "Esaie",
+        choiceC : "Esaïe",
+        correct : "C"
     }
 ];
 
